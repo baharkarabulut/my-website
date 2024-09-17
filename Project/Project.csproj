@@ -2085,12 +2085,13 @@
     <Content Include="Demo\img\demos\startup-agency\backgrounds\morphing-bg-1b.jpg" />
     <Content Include="Demo\img\demos\startup-agency\backgrounds\morphing-bg-2.jpg" />
     <Content Include="Demo\img\demos\startup-agency\bahar.jpg" />
-    <Content Include="Demo\img\demos\startup-agency\baharr.png" />
+    <Content Include="Demo\img\demos\startup-agency\bahargn.png" />
     <Content Include="Demo\img\demos\startup-agency\icons\icon-calendar.svg" />
     <Content Include="Demo\img\demos\startup-agency\icons\icon-location.svg" />
     <Content Include="Demo\img\demos\startup-agency\icons\icon-mail.svg" />
     <Content Include="Demo\img\demos\startup-agency\icons\icon-phone.svg" />
     <Content Include="Demo\img\demos\startup-agency\logo.png" />
+    <Content Include="Demo\img\demos\startup-agency\morphing-bg-g.png" />
     <Content Include="Demo\img\demos\startup-agency\works\DoktorKapisiProje.png" />
     <Content Include="Demo\img\demos\startup-agency\works\ProjeAura.jpg" />
     <Content Include="Demo\img\demos\startup-agency\works\ProjeAura1.png" />

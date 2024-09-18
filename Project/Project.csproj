@@ -4524,6 +4524,11 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Project.cshtml" />
     <Content Include="Views\Home\Work.cshtml" />
+    <Content Include="Views\Home\Blog.cshtml" />
+    <Content Include="Views\Home\Blog1.cshtml" />
+    <Content Include="Views\Home\Blog2.cshtml" />
+    <Content Include="Views\Home\Blog4.cshtml" />
+    <Content Include="Views\Home\Blog3.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -37,5 +37,27 @@ namespace Project.Controllers
             return View();
         }
 
-    }
+		public ActionResult Blog()
+		{
+			return View();
+		}
+
+		public ActionResult Blog1()
+		{
+			return View();
+		}
+
+		public ActionResult Blog2()
+		{
+			return View();
+		}
+		public ActionResult Blog3()
+		{
+			return View();
+		}
+		public ActionResult Blog4()
+		{
+			return View();
+		}
+	}
 }

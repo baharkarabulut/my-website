@@ -3078,7 +3078,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	html.side-header #header.side-header .header-nav.header-nav-links-vertical-slide nav ul li.dropdown-submenu,
 		html.side-header-hamburguer-sidebar #header.side-header .header-nav.header-nav-links-vertical-slide nav ul li.dropdown-submenu {
 		position: static;
-	}
+	}header-btn-collapse-nav
 }
 
 /* Header Floating */
@@ -11449,3 +11449,4 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 	padding-left: 25px;
 	padding-right: 25px;
 }
+

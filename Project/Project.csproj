@@ -314,6 +314,10 @@
     <Content Include="Demo\img\demos\startup-agency\about-us-1.png" />
     <Content Include="Demo\img\demos\startup-agency\bahar.jpg" />
     <Content Include="Demo\img\demos\startup-agency\bahargn.png" />
+    <Content Include="Demo\img\demos\startup-agency\Blog\Blog.png" />
+    <Content Include="Demo\img\demos\startup-agency\Blog\Blog2.png" />
+    <Content Include="Demo\img\demos\startup-agency\Blog\blog3.png" />
+    <Content Include="Demo\img\demos\startup-agency\Blog\Blog4.png" />
     <Content Include="Demo\img\demos\startup-agency\icons\icon-calendar.svg" />
     <Content Include="Demo\img\demos\startup-agency\icons\icon-location.svg" />
     <Content Include="Demo\img\demos\startup-agency\icons\icon-mail.svg" />
